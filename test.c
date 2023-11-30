@@ -35,7 +35,6 @@ int main() {
     leftChild->right = NULL;
     rightChild->left = NULL;
     rightChild->right = NULL;
-    bagroundcolor
 
     // print a tree like tree
 
