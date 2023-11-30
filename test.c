@@ -36,7 +36,6 @@ int main() {
     rightChild->left = NULL;
     rightChild->right = NULL;
 
-    // print a tree like tree
 
     printTree(root);
     
