@@ -1,0 +1,8 @@
+CC=gcc
+SRC= *.c
+NAME= result
+RM= rm -f
+CFLAGS= -Wall -Werror -Wextra -pedantic
+
+all: $(OBJ)
+	$(CC) $(SRC) -o $(NAME)
