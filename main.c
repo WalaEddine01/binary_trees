@@ -27,3 +27,4 @@ int main(void)
     printf("Depth of %d: %lu\n", root->left->right->n, depth);
     return (0);
 }
+
